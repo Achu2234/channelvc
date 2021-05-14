@@ -24,16 +24,16 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""👋🏻 **Hello!**
 
-I Only Works In @AsmSafone😇 
-Request Song At @SafoTheBot !! 😌""",
+I Only Works In @Animemusicarchive6😇 
+Request Song At @Yeageristbots !! 😌""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "CHANNEL", url="https://t.me/AsmSafone"
+                        "CHANNEL", url="https://t.me/Animemusicarchive6"
                     ),
                     InlineKeyboardButton(
-                        "SUPPORT", url="https://t.me/safothebot"
+                        "SUPPORT", url="https://t.me/Yeageristbots"
                     )
                 ]
             ]
