@@ -24,8 +24,9 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""👋🏻 **Hello!**
 
-I Only Works In @Animemusicarchive6😇 
-Request Song At @Yeageristbots !! 😌""",
+I am Channel VC Player I can play songs in your channel vc
+This is the first music stermmer that can play music in telegram channel vc
+Use @YeageristMusic_bot for steram music in group !! 😌""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
